@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+section{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+}
